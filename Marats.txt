@@ -2,3 +2,4 @@ First line of text in the Master branch
 Second line in the Master branch
 Third line in the Master branch
 A change on auxilary branch
+2nd change on auxilary branch
