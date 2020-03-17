@@ -1,1 +1,2 @@
-First line of text
+First line of text in the Master branch
+Second line in the Master branch
